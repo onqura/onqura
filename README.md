@@ -1,2 +1,1 @@
-                                                                                                                                     [English](./README.md) | [Русский](./README.ru.md)
-        
+Languages: [English](./README.md) | [Русский](./README.ru.md)
