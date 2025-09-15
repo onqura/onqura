@@ -4,7 +4,7 @@ Language: <a href="./README.md">English</a>
 </p>
 
 <!-- Заголовок  -->
-<b>&nbsp;&nbsp;&nbsp;Рафаил - Junior+ разработчик (⇀‸↼‶)</b>
+<b>&nbsp;Рафаил - Junior+ разработчик (⇀‸↼‶)</b>
 
 
 <div style="display: flex; gap: 30px;">
