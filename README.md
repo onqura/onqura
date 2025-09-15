@@ -1,1 +1,1 @@
-🌍 Languages: [English](./README.md) | [Русский](./README.ru.md)
+                                                                         [English](./README.md) | [Русский](./README.ru.md)
