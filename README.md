@@ -1,6 +1,6 @@
 <!-- Языковой переключатель  -->
 <p align="right">
-Language: <a href="./README.md">English</a>
+Language: <a href="./README.en.md">English</a>
 </p>
 
 <!-- Заголовок  -->
