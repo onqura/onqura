@@ -21,9 +21,9 @@ Language: <a href="./README.en.md">English</a>
 
 | Date       | Description                          | Link           |
 |------------|--------------------------------------|----------------|
-| 2025-09-20 | First C# console project             | [Repo](#)      |
-| 2025-09-25 | Started learning ASP.NET             | [Repo](#)      |
-| 2025-10-05 | First pet project with authentication| [Repo](#)      |
+| 2025-09-20 | ###### ############ ####             | [Repo](#)      |
+| 2025-09-25 | ####### ################             | [Repo](#)      |
+| 2025-10-05 | ## ############# ####################| [Repo](#)      |
 
 
 ---
